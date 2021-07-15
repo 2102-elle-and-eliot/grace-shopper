@@ -8,4 +8,8 @@ We built an app to help cats find love. This matches compatible kittens in a 15 
 
 ## Features
 
-Includes a cool file that prints the sum of 2 + 2.
+### Two Plus Two
+Run `npm run start:two_plus_two` to have the console print the sum of 2 + 2.
+
+### Hello World
+Run `npm run start:hello_world` to have the console print "Hello, World!".
