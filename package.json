@@ -1,0 +1,20 @@
+{
+  "name": "2102-github",
+  "version": "1.0.0",
+  "description": "The final project of our 2102 Bootcamp at Fullstack Academy!",
+  "main": "two_plus_two.js",
+  "scripts": {
+    "start": "node two_plus_two.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leafoflegend/grace-shopper-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leafoflegend/grace-shopper-1/issues"
+  },
+  "homepage": "https://github.com/leafoflegend/grace-shopper-1#readme"
+}
