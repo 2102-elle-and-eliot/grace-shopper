@@ -2,9 +2,10 @@
   "name": "2102-github",
   "version": "1.0.0",
   "description": "The final project of our 2102 Bootcamp at Fullstack Academy!",
-  "main": "hello_world.js",
+  "main": "",
   "scripts": {
-    "start": "node hello_world.js"
+    "start:hello_world": "node hello_world.js",
+    "start:two_plus_two": "node two_plus_two.js"
   },
   "repository": {
     "type": "git",
